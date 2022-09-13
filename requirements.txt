@@ -1,0 +1,11 @@
+Environment used:
+python 3.9.12
+Ubuntu 20.04.4 LTS
+
+from conda 4.13.0:
+tensorflow                   2.9.1
+tensorflow-decision-forests  0.2.7
+seaborn                   0.11.2
+pandas                    1.4.2
+
+See 'conda_env.txt' for a full list of packages in conda environment
